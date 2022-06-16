@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**temiloluwa153/temiloluwa153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my technical skills in Data Science and Machine Learning
@@ -10,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everything data science and projects
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://twitter.com/FolorunsoTemi
 - 😄 Pronouns: (She/ Her/ Hers)
 - ⚡ Fun fact: I'm really into 3D animation

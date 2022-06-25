@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my technical skills in Data Science and Machine Learning
 - 🌱 I’m currently learning Data science from the NG30 days learning
 - 👯 I’m looking to collaborate on everything data science and projects
